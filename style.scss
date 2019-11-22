@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'comic sans MS';
+    src: ('/COMIC.TTF')
+}
 body{
     display: grid;
     grid-template-columns: 20% 1fr 20%;

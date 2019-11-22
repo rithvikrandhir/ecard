@@ -5,6 +5,11 @@
           box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'comic sans MS';
+  src: "/COMIC.TTF";
+}
+
 body {
   display: -ms-grid;
   display: grid;
